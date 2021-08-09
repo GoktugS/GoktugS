@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Vanilla Javascript/ React
 - 💞️ I’m looking to collaborate on Javascript Projects
 - 📫 If you want to reach to me just send me an email.
+- 📧 gokojapan5@gmail.com
 
 <!---
 GoktugS/GoktugS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
